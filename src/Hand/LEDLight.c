@@ -1,0 +1,1 @@
+void OSLEDControl(u8 Mode);
