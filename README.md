@@ -14,11 +14,11 @@ This git-project makes all and **only** embedded code open-source. The core MCU 
 ## All hardware:
 ![image](https://github.com/ferventdesert/XMove/blob/master/images/all.jpg)
  
- 2 node on hands as controllor.**folder hand and HandOldSimplify**  
+ 2 node on hands as controllor.**(folder hand and HandOldSimplify)**  
  
- 20 nodes on body.**folder Node**  
+ 20 nodes on body.**(folder Node)**  
  
- 1 node receive wireless data and process it.**folder Managed430**  
+ 1 node receive wireless data and process it.**(folder Managed430)**  
  
  
 ## Parts of software:
