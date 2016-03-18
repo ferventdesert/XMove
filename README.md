@@ -1,7 +1,7 @@
 XMove
 =====
 
-MEMS-based motion detection &amp; analysis system like Mircosoft Kinect ＜/br＞
+MEMS-based motion detection &amp; analysis system like Mircosoft Kinect 
 
 ##Basic:
 
@@ -14,17 +14,19 @@ This git-project makes all and **only** embedded code open-source. The core MCU 
 ## All hardware:
 ![image](https://github.com/ferventdesert/XMove/blob/master/images/all.jpg)
  
- 2 node on hands as controllor.  
+ 2 node on hands as controllor.**folder hand and HandOldSimplify**  
  
- 20 nodes on body.  
+ 20 nodes on body.**folder Node**  
  
- 1 node receive wireless data and process it.  
+ 1 node receive wireless data and process it.**folder Managed430**  
  
-
+ 
 ## Parts of software:
 I developed a MCU-base system like this:  
 
 ![image](https://github.com/ferventdesert/XMove/blob/master/images/hand.jpg)
+
+
 All code edited by hand (Of course,or by my ass?)  
 
 
