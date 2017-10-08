@@ -1,7 +1,7 @@
 XMove
 =====
 
-MEMS-based motion detection &amp; analysis system like Mircosoft Kinect 
+MEMS-based motion detection &amp; analysis system like Microsoft Kinect 
 
 ##Basic:
 
